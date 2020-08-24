@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
+<title>グループウェア｜ERP:大手企業向けERPパッケージ「HUE」 / ワークスアプリケーションズ</title>
+<meta name="keywords" content="ERP,ワークスアプリケーションズ,販売 調達 原価 プロジェクト管理" />
+<meta name="description" content="ERP「HUE」を提供するワークスアプリケーションズの公式サイトです。財務、経理、購買・調達、業務プロセス管理など、企業の経営や業務に欠かせない、さまざまなシステムが取り揃っています。" />
+
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2, minimum-scale=1">
+
+<link rel="stylesheet" href="/dcms_media/css/base.css">
+<link rel="stylesheet" href="/dcms_media/css/slick.css"/>
+<link rel="stylesheet" href="/dcms_media/css/common.css">
+<link rel="stylesheet" href="/dcms_media/css/layout.css">
+<link rel="stylesheet" href="/dcms_media/css/parts.css">
+<link rel="stylesheet" href="/dcms_media/css/sub.css">
+<link rel="stylesheet" href="/dcms_media/css/module.css">
+<link rel="stylesheet" href="/dcms_media/css/cookieconsent.min.css" /><!--Cookie-->
+
+<script src="/dcms_media/js/jquery-1.11.1.min.js"></script>
+<!-- <script src="/dcms_media/js/slick.min.js"></script> -->
+<script src="/dcms_media/js/common.js"></script>
+<script src="/dcms_media/js/cookieconsent.min.js"></script><!--Cookie-->
+
+<script>
+    var lh = "";
+    lh = location.href;
+    if (lh.match(/dcmsadm/)) {
+
+    } else {
+document.write('<script src="\/dcms_media\/js\/app.js" defer><\/script>');
+document.write('<script src="\/dcms_media\/js\/lib.js" defer><\/script>');
+}
+</script>
+
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#002477"
+    },
+    "button": {
+      "background": "transparent",
+      "border": "#ffffff",
+      "text": "#ffffff"
+    }
+  },
+  "content": {
+    "message": "本サイトは、快適にご覧いただくためCookieを使用しています。観覧を続ける場合、Cookie使用に同意したものとします。",
+    "dismiss": "×",
+    "link": "Cookieポリシーを表示",
+    "href": "/personal_information"
+  }
+})});
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WKWLBGR');</script>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WKWLBGR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+</head>
+<body class="page_groupware">
+<a name="page_top" id="page_top"></a>
+<div id="wrapper">
+<div id="container">
+<header class="headerWrapper">
+<div class="headerArea">
+<div class="logoArea"><a href="/"><img src="/dcms_media/image/logoImg.png" alt="株式会社ワークスアプリケーションズ" /></a></div>
+<div class="navArea"><form id="fSearch" class="spSearch" action="/dcms-search/" method="post"><input id="keywords1" class="search_textbox" name="schKeyword" type="text" value="" placeholder="検索" /> <!--<input class="search_subit" type="submit" value="" />--></form>
+<ul class="navList">
+<li><a href="/services.html">製品・サービス</a>
+<div class="mega">
+<div class="inner">
+<p class="title">製品・サービス</p>
+<ul>
+<li>
+<p class="img"><a href="/hues_features.html"><img src="/dcms_media/image/product_mega_01.jpg" alt="大手企業向けERPパッケージ　HUE(ヒュー)の特徴" /></a></p>
+<a class="caption" href="/hues_features.html">大手企業向けERPパッケージ HUEの特徴</a></li>
+<li>
+<p class="img"><a href="/services.html"><img src="/dcms_media/image/product_mega_02.jpg" alt="製品・サービス" /></a></p>
+<a class="caption" href="/services.html">製品・サービス </a></li>
+<!--<li>
+<p class="img"><a href="#"><img src="/dcms_media/image/product_mega_03.jpg" alt="システム運用支援" /></a></p>
+<a class="caption" href="#">システム運用支援 </a></li>--></ul>
+</div>
+</div>
+</li>
+<li class="sp_on"><a class="caption" href="/hues_features.html">HUEの特徴</a></li>
+<li><a href="/Issues_Industry_solutions.html">課題・業種別ソリューション</a></li>
+<li><a href="/case.html">導入事例</a></li>
+<li><a href="/news.html">ニュース</a></li>
+<li><a href="/events_seminars.html">イベント・セミナー</a></li>
+<li><a href="/about.html">会社情報</a>
+<div class="mega">
+<div class="inner">
+<p class="title">会社情報</p>
+<ul>
+<li>
+<p class="img"><a href="/about/company.html"><img src="/dcms_media/image/company_mega_01.jpg" alt="会社概要" /></a></p>
+<a class="caption" href="/about/company.html">会社概要 </a></li>
+<li>
+<p class="img"><a href="/about/bases_affiliates.html"><img src="/dcms_media/image/company_mega_02.jpg" alt="拠点・関連会社" /></a></p>
+<a class="caption" href="/about/bases_affiliates.html">拠点・関連会社 </a></li>
+<li>
+<p class="img"><a href="/about/history.html"><img src="/dcms_media/image/company_mega_03.jpg" alt="沿革" /></a></p>
+<a class="caption" href="/about/history.html">沿革 </a></li>
+<li>
+<p class="img"><a href="/about/structure_profile.html"><img src="/dcms_media/image/company_mega_04.jpg" alt="経営体制・プロフィール" /></a></p>
+<a href="/about/structure_profile.html">経営陣プロフィール</a></li>
+<li>
+<p class="img"><a href="/about/philosophy.html"><img src="/dcms_media/image/company_mega_05.jpg" alt="理念" /></a></p>
+<a class="caption" href="/about/philosophy.html">理念 </a></li>
+<li>
+<p class="img"><a href="/about/interview.html"><img src="/dcms_media/image/company_mega_06.jpg" alt="私の働きがい" /></a></p>
+<a class="caption" href="/about/interview.html">私の働きがい </a></li>
+<li>
+<p class="img"><a href="/about/award.html"><img src="/dcms_media/image/company_mega_07.jpg" alt="受賞歴" /></a></p>
+<a class="caption" href="/about/award.html">受賞歴 </a></li>
+<li>
+<p class="img"><a href="/about/system.html"><img src="/dcms_media/image/company_mega_08.jpg" alt="制度" /></a></p>
+<a class="caption" href="/about/system.html">制度 </a></li>
+<li>
+<p class="img"><a href="/about/csr.html"><img src="/dcms_media/image/company_mega_09.jpg" alt="CSR" /></a></p>
+<a class="caption" href="/about/csr.html">CSR </a></li>
+</ul>
+</div>
+</div>
+</li>
+<li><a href="https://career.worksap.co.jp/" target="_blank" rel="noopener">採用情報</a></li>
+</ul>
+<div class="headerBtnArea">
+<div class="inner">
+<div class="btnR">
+<ul class="btnList">
+<li><a href="/contact.html">お問い合わせ</a></li>
+<li><a href="/contact-cta.html">資料請求</a></li>
+</ul>
+</div>
+<div class="btnL">
+<ul class="langList">
+<li><a href="https://www.worksap.com/" target="_blank" rel="noopener">English</a> ／</li>
+<li><a href="https://www.worksap.com/cn/" target="_blank" rel="noopener">中文</a></li>
+</ul>
+<!--<form id="fSearch" action="/dcms-search/" method="post"><input type="search" placeholder="検索" /></form>--><form id="fSearch" action="/dcms-search/" method="post"><input id="keywords1" class="search_textbox" name="schKeyword" type="text" value="" placeholder="検索" /> <!--<input class="search_subit" type="submit" value="" />--></form></div>
+</div>
+</div>
+</div>
+<div class="spMenu">
+<p><a href="/contact-cta.html">資料請求</a></p>
+</div>
+<div class="menuBtnArea"><span class="line"> <!--line--></span> <span class="line"> <!--line--></span> <span class="line"> <!--line--></span></div>
+</div>
+</header>
+
+<!--###_DCMS_COMMON:LEFTNAVI_###-->
+
+<div id="contents" class="clearfix">
+
+<main class="main_contents">
+<section class="pageTitleWrapper">
+    <h1 class="title">グループウェア</h1>
+</section>
+<section class="breadCrumbsWrapper">
+    <ol itemscope itemtype="http://schema.org/BreadcrumbList"><a href="https://www.worksap.co.jp/">TOP</a>&nbsp;&gt;&nbsp;<a href="https://www.worksap.co.jp/services/">製品・サービス</a>&nbsp;&gt;&nbsp;グループウェア</ol>
+</section>
+<!-- ブロック貼り付けエリア -->
+<div id="dcms_layoutPageBlockPasteArea">
+<!-- ブロック -->
+<div id="dcms_layoutPageBlock">
+<section class="anchorListWrapper">
+<ul>
+<li><a href="#link01">モジュールマップ</a></li>
+<li><a href="#link02">機能例</a></li>
+<li><a href="#link03">製品一覧</a></li>
+<li><a href="#link04">導入事例</a></li>
+</ul>
+</section>
+<a id="link01"></a>
+<div class="borderNoneTitle">
+<h2 class="title">モジュールマップ</h2>
+</div>
+<div class="inner img-c"><img src="/dcms_media/image/groupware_module01.jpg" alt="モジュールマップ" width="318" height="224" /></div>
+<section class="productSolutionWrapper">
+<ul>
+<li>
+<h3 class="characteristicTitle">特徴<span class="num">01</span></h3>
+<h4 class="itemTitle">スケジューラーや情報共有ポータルなどの主要な機能で<br /><span class="in">多彩な設定</span>ができ、<span class="in">企業文化</span>に応じた情報共有を促進</h4>
+<div class="txt">
+<p>情報共有に必要とされる一般的な機能はあらかじめ搭載されており、企業・組織・個人単位でワークスタイルに合わせた柔軟な設定が可能です。<br />オールインワンパッケージのため、利用する機能ごとのシステム構築や管理は必要なく、設定のみで利用する機能の追加・選択が可能です。</p>
+</div>
+</li>
+<li>
+<h3 class="characteristicTitle">特徴<span class="num">02</span></h3>
+<h4 class="itemTitle">柔軟な<span class="in">アクセス権限設定</span>で<br />情報漏洩などを防止し、<br class="tablNone" /><span class="in">内部統制の強化</span>に寄与</h4>
+<div class="txt">
+<p>アプリケーション・文書・フィールド・ビュー単位まで、個人～組織の各種権限を設定することができます。<br />グループ会社間利用を想定したアクセス権限機能等も実装しており、情報・ノウハウの共有と内部統制強化の両立を支援します。</p>
+</div>
+</li>
+<li>
+<h3 class="characteristicTitle">特徴<span class="num">03</span></h3>
+<h4 class="itemTitle">情報・ノウハウの共有・<br /><span class="in">業務効率化</span>をさらに推進する<br class="tablNone" />簡易業務アプリケーション・<br />ワークフローへの<span class="in">拡張性</span></h4>
+<div class="txt">
+<p>顧客管理や日報管理などの簡易業務アプリケーションや、ワークフローを開発できる基盤もグループウェアと同シリーズでご用意しており、インターフェース構築の必要なく、マスタやID、アクセス権限の管理を一本化することが可能です。</p>
+</div>
+</li>
+</ul>
+</section>
+<a id="link02"></a>
+<div class="subTitle txt-c">
+<h2 class="title">グループウェア機能例</h2>
+</div>
+<section class="mainFunctionsWrapper">
+<div class="txtArea">
+<div class="head">
+<h3 class="title">スケジュール・施設管理</h3>
+</div>
+<p class="txt">ユーザー自身のスケジュール管理はもちろんのこと、任意のユーザーグループ毎の表示、スケジュールと連動した施設の予約、タスク管理などスケジュール管理に紐づく様々な機能を用意しています。<br />また、ユーザー・施設の空き時間検索機能や繰り返し登録機能などにより、スムーズなスケジュール調整をサポートします。</p>
+</div>
+<div class="imgArea"><img src="/dcms_media/image/groupware_pc01.png" alt="スケジュール・施設管理" width="500" height="305" /></div>
+</section>
+<section class="mainFunctionsWrapper">
+<div class="txtArea">
+<div class="head">
+<h3 class="title">ポータル</h3>
+</div>
+<p class="txt">ポータルは、スケジュール、ファイル管理、掲示板、ワークフローといった様々なアプリケーションを、ポートレット形式（小さなウインドウ）で表示することが可能です。<br />表示するウインドウ・情報は、全体・部門・個人・任意のプロジェクト単位で、簡単に設定することができ、グループウェアのスタートページとして利用することで、エンドユーザーが必要な情報・アプリケーションへスムーズにアクセスすることができます。</p>
+</div>
+<div class="imgArea"><img src="/dcms_media/image/groupware_pc02.png" alt="ポータル" width="500" height="305" /></div>
+</section>
+<section class="mainFunctionsWrapper">
+<div class="txtArea">
+<div class="head">
+<h3 class="title">統合全文検索</h3>
+</div>
+<p class="txt">機能横断的な統合全文検索機能を標準で搭載しており、各機能で設定された情報（タイトル・本文・添付ファイル内容など）を検索対象としたキーワード検索、Excel、Word、PowerPoint、PDFなどのファイル検索が可能です。<br />検索結果にはユーザーのアクセス権が反映されており、閲覧権限のある情報のみを表示します。</p>
+</div>
+<div class="imgArea"><img src="/dcms_media/image/groupware_pc03.png" alt="統合全文検索" width="500" height="305" /></div>
+</section>
+<div class="subTitle txt-c">
+<h2 class="title">機能一覧</h2>
+</div>
+<section class="functionsListWrapper group">
+<dl>
+<dt>主要機能</dt>
+<dd>
+<ul>
+<li>スケジュール(カレンダー)</li>
+<li>タスク</li>
+<li>施設管理</li>
+<li>ファイル管理</li>
+<li>電子会議室（掲示板）</li>
+<li>伝言（社内向けメール）</li>
+<li>新着機能</li>
+<li>在籍管理</li>
+<li>スマートデバイス対応</li>
+<li>ポータル（全体、部門、個人、プロジェクト）</li>
+<li>Webサービス連携（RSS、ガジェット）</li>
+<li>アクセス権限管理機能</li>
+<li>全文検索機能</li>
+<li>連絡事項（掲示板）</li>
+</ul>
+</dd>
+</dl>
+</section>
+<div class="btn_only01"><a href="/services/workflow_development-tools.html">同シリーズのワークフロー・<br />開発ツールはこちら</a></div>
+<section id="link03" class="productsListWrapper">
+<div class="inner">
+<h2 class="title">製品一覧</h2>
+<ul>
+<li class="lg"><a href="/services/s_p_c_p.html">販売・調達・原価・プロジェクト</a></li>
+<li><a href="/services/financial.html">財務会計</a></li>
+<li><a href="/services/management-accounting.html">管理会計</a></li>
+<li><a href="/services/cash-management.html">資金管理</a></li>
+<li><a href="/services/asset-management.html">資産管理</a></li>
+<li><a href="/services/purchasing-management.html">購買管理</a></li>
+<li><a href="/services/expense.html">経費精算</a></li>
+<li><a href="/services/real_estate-management.html">不動産管理</a></li>
+<li class="lg"><a href="/services/workflow_development-tools.html">ワークフロー・開発ツール</a></li>
+<li><a href="/services/groupware.html">グループウェア</a></li>
+</ul>
+<p class="moreBtn"><a href="/services.html">製品一覧 TOPへ</a></p>
+</div>
+</section>
+<section class="worksListWrapper" id="link04">
+		<h2 class="title">導入事例</h2>
+		<ul>
+			<li><div class="inner">
+				<p class="img"><img src="/dcms_media/image/case_logo03.jpg"alt="コープデリ連合会"></p>
+				<p class="tag">RPA</p>
+				<h4 class="title"><a href="/case/coopdeli01.html">コープデリ連合会</a></h4>
+				<p class="body">RPAによる手作業の自動化で作業時間を1/12に短縮<br>ワークス提供のRPA導入サービス活用事例</p>
+		</div></li>
+		<li><div class="inner">
+			<p class="img"><img src="/dcms_media/image/case_logo02.png" alt="日本空港ビルデング株式会社"></p>
+			<p class="tag">グループウェア</p>
+			<h4 class="title"><a href="/case/jat.html">日本空港ビルデング株式会社</a></h4>
+				<p class="body">グループ16社、会社・部門・職位を越えた情報共有を実現 Arielは業務の入り口であり重要な情報のデータベース</p>
+		</div></li>
+		<li><div class="inner">
+			<p class="img"><img src="/dcms_media/image/case_logo01.jpg" alt="株式会社NSD"></p>
+			<p class="tag">SCM</p>
+			<h4 class="title"><a href="/case/nsd.html">株式会社NSD</a></h4>
+			<p class="body">多岐にわたる領域の機能を標準搭載した「COMPANY SCMプロジェクト管理」を導入</p>
+	</div></li>
+	<li><div class="inner">
+		<p class="img"><img src="/dcms_media/image/case_logo05.jpg" alt="日揮プラントイノベーション株式会社"></p>
+		<p class="tag">会計</p>
+		<h4 class="title"><a href="/case/jpi.html">日揮プラントイノベーション株式会社</a></h4>
+		<p class="body">経理業務シフト講演レポート：日揮プラントイノベーション株式会社（JPI）　経理部 部長　戸島 民雄氏</p>
+</div></li>
+
+<li><div class="inner">
+	<p class="img"><img src="/dcms_media/image/case_logo06.jpg" alt="ダスキン"></p>
+	<p class="tag">会計</p>
+	<h4 class="title"><a href="/case/duskin.html">ダスキン</a></h4>
+	<p class="body">IT投資コスト削減を狙い「HUE」採用<br>経営効率を最適化し、持続的成長を目指す</p>
+</div></li>
+
+<li><div class="inner">
+	<p class="img"><a href="/case/persol-group.html"><img src="/dcms_media/image/case_persol-group_logo.jpg" /></a></p>
+	<p class="tag">AC</p>
+	<h4 class="title"><a href="/case/duskin.html">パーソルホールディングス株式会社</a></h4>
+	<p class="fc_bule01 m10">＃業種：人材紹介</p>
+	<p class="body">多種多様なカルチャーのグループ企業が集う<br /> 「COMPANY」AC Suite導入</p>
+</div></li>
+</ul>
+<p class="moreBtn"><a href="/case.html">導入事例をもっと見る</a></p>
+</section>
+
+</div>
+<!-- // ブロック -->
+</div>
+<!-- // ブロック貼り付けエリア -->
+</main><!--main_contents_end-->
+
+</div><!--contents_end-->
+
+
+</div><!--container_end-->
+
+<div class="footerDownload">
+<h2 class="title">お役立ち資料がダウンロードできます</h2>
+<ul>
+<li>
+<h5 class="name">固定資産管理事例集</h5>
+<p class="img"><img src="/dcms_media/image/download_01.png" alt="固定資産管理事例集" /></p>
+<p class="btn"><a href="/download_list/dl_01.html">資料ダウンロード</a></p>
+</li>
+<li>
+<h5 class="name">RPA事例集〜経理業務編〜</h5>
+<p class="img"><img src="/dcms_media/image/download_02.png" alt="RPA事例集 経理業務編" /></p>
+<p class="btn"><a href="/download_list/dl_03.html">資料ダウンロード</a></p>
+</li>
+<li>
+<h5 class="name">管理会計事例集</h5>
+<p class="img"><img src="/dcms_media/image/download_03.png" alt="管理会計事例集" /></p>
+<p class="btn"><a href="/download_list/dl_02.html">資料ダウンロード</a></p>
+</li>
+</ul>
+<p class="moreBtn"><a href="/download_list.html">資料一覧を見る</a></p>
+</div>
+<div class="footerContact">
+<h4 class="title">お問い合わせ</h4>
+<ul>
+<li>
+<p class="icon"><img src="/dcms_media/image/icon_tel_w.png" alt="お電話でのご相談" /></p>
+<div class="txtArea">
+<p class="sub">お電話でのご相談</p>
+<div class="tel">
+<p class="num"><a href="tel:03-6229-1200">03-6229-1200</a></p>
+<p class="open">受付時間 : 平日10:00-18:00 （祝日除く）</p>
+</div>
+</div>
+</li>
+<li>
+<p class="icon"><img src="/dcms_media/image/icon_mail_w.png" alt="メールでのお問い合わせ" /></p>
+<div class="txtArea">
+<p class="sub">メールでのお問い合わせ</p>
+<p class="btn"><a href="/contact.html">お問い合わせフォームへ</a></p>
+</div>
+</li>
+<li>
+<p class="icon"><img src="/dcms_media/image/icon_document_w.png" alt="資料請求" /></p>
+<div class="txtArea">
+<p class="sub">資料請求</p>
+<p class="btn"><a href="/contact-cta.html">資料請求ページへ</a></p>
+</div>
+</li>
+</ul>
+</div>
+<footer class="footerWrapper">
+<div class="inner">
+<p class="logo">&nbsp;</p>
+<div class="clm3">
+<div class="col">
+<div class="spCol">
+<p><a href="/services.html">製品・サービス</a></p>
+<ul>
+<li><a href="/hues_features.html">HUEの特徴</a></li>
+<li><a href="/services.html">製品・サービス</a></li>
+<!--<li><a href="#">システム運用支援</a></li>--></ul>
+</div>
+<div class="spCol">
+<p><a href="/Issues_Industry_solutions.html">課題・業種別ソリューション</a></p>
+<p><a href="/case.html">導入事例</a></p>
+</div>
+</div>
+<div class="col">
+<p><a href="/about.html">会社情報</a></p>
+<ul>
+<li><a href="/about/company.html">会社概要</a></li>
+<li><a href="/about/interview.html">私の働きがい</a></li>
+<li><a href="/about/bases_affiliates.html">拠点・関連会社</a></li>
+<li><a href="/about/award.html">受賞歴</a></li>
+<li><a href="/about/history.html">沿革</a></li>
+<li><a href="/about/system.html">制度</a></li>
+<li><a href="/about/structure_profile.html">経営陣プロフィール</a></li>
+<li><a href="/about/csr.html">CSR</a></li>
+<li><a href="/about/philosophy.html">理念</a></li>
+</ul>
+</div>
+<div class="col">
+<div class="spCol">
+<p><a href="/news.html">ニュース</a></p>
+<p><a href="/events_seminars.html">イベント・セミナー</a></p>
+<p><a href="https://career.worksap.co.jp/" target="_blank" rel="noopener">採用情報</a></p>
+</div>
+<div class="spCol">
+<p><a href="/contact.html">お問い合わせ</a></p>
+<p><a href="/contact-cta.html">資料請求</a></p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<div class="footerLink">
+<div class="inner">
+<ul>
+<li><a href="/personal_information.html">個人情報の取扱いについて</a></li>
+<li><a href="/sitepolicy.html">サイトの利用条件</a></li>
+<li><a href="/security.html">情報セキュリティ基本方針</a></li>
+<li><a href="/privacypolicy.html">個人情報保護方針</a></li>
+<li><a href="/sitemap.html">サイトマップ</a></li>
+</ul>
+<p class="copyright"><small>&copy;2020 Works Applications Co.,Ltd.</small></p>
+</div>
+</div>
+<div class="fixedFooterLink fixed">
+<div class="inner">
+<ul>
+<li><a href="/contact.html">お問い合わせ</a></li>
+<li><a href="/contact-cta.html">資料請求</a></li>
+</ul>
+<p class="open">お電話からのお問い合わせはこちら　<a href="tel:0300000000">03-6229-1200</a>　<br class="sp" />受付時間 : 平日10:00-18:00 （祝日除く）</p>
+</div>
+</div>
+
+</div>
+</body>
+</html>
