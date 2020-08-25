@@ -1,0 +1,1841 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" href="https://www.cgisecurity.com/i/styles.css" type="text/css" media="screen" />
+	<link rel="alternate" type="application/atom+xml" title="Posts on 'Web and Application Security News' (Atom)" href="https://www.cgisecurity.com/atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="Posts on 'Web and Application Security News' (RSS 2.0)" href="https://www.cgisecurity.com/rss.xml" />
+	<title>CGISecurity - Website and Application Security News</title>
+</head>
+<body>
+
+<!-- header -->
+
+<!-- banner -->
+<!---- start banner -->
+<div id="header">
+<span>
+	<div class="logo">
+		<a href="https://www.cgisecurity.com/"><img src="/images/cgisec.jpg" border="0"></a>
+	</div>
+
+<div class="advertise">
+<a href="https://www.cgisecurity.com/services.html">
+<img src="/images/sacha_banner_v2.gif" border="0"></a>
+        </div>
+
+</span>
+
+</div>
+
+<!---- end banner -->
+
+
+<!-- banner -->
+
+<!-- topbar -->
+<div id="navigation">
+	<ul>
+		<li class="selected"><a href="/">Home</a></li>
+		<li class="page_item page-item-2"><a href="https://www.cgisecurity.com/about.html" title="About CGISecurity">About CGISecurity</a></li>
+
+<!--
+		<li class="page_item page-item-2"><a href="/xss-faq.html" title="XSS">XSS</a></li>
+		<li class="page_item page-item-2"><a href="/csrf-faq.html" title="Cross-Site Request Forgery">Cross-Site Request Forgery</a></li> 
+
+-->
+	</ul>
+	<span id="rsslink"><a href="https://www.cgisecurity.com/rss.xml" title="Subscribe to this site">Subscribe to this site</a></span>
+</div>
+
+<!-- topbar -->
+
+<!-- left box -->
+<!-- start leftside -->
+
+
+<div class="navboxwrapleft">
+<div class="navboxleft">
+
+<!-- Start Topics -->
+<h5>Topics</h5>
+<ul>
+<li><a href="https://www.cgisecurity.com/advertise.html">Advertising</a></li>
+<li><a href="https://www.cgisecurity.com/about.html">About</a></li>
+<li><a href="https://www.cgisecurity.com/contact.html">Contact</a></li>
+<li><a href="https://www.cgisecurity.com/security-questions.html">FAQ</a></li>
+<li><a href="https://www.cgisecurity.com/irc.html">Irc</a></li>
+<li><a href="https://www.cgisecurity.com/links.html">Links</a></li>
+<li><a href="https://www.cgisecurity.com/books.html">Books</a></li>
+<li><a href="https://www.cgisecurity.com/papers/">Our Papers</a></li>
+<li><a href="https://www.cgisecurity.com/advisory.html">Advisories</a></li>
+<li><a href="https://www.cgisecurity.com/contrib.html">Contributions</a></li>
+<li><a href="https://www.cgisecurity.com/services.html">Security Services</a></li>
+<li><a href="https://www.cgisecurity.com/rfc.html">RFCs</a><li>
+<li><a href="https://www.cgisecurity.com/submitnews.html">Submit News</a></li>
+</ul>
+<!-- End Topics -->
+
+
+<!-- start tags -->
+<h5>Tags</h5>
+<ul>
+
+
+<li><a href="https://www.cgisecurity.com/announcements/">Announcements (78)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/articles/">Articles (51)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/blue-team/">Blue Team (1)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/books/">Books (1)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/browsers/">Browsers (77)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/buzzwords/">Buzzwords (29)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/commentary/">Commentary (43)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/compliance/">Compliance (9)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/cryptography/">Cryptography (17)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/csrf/">CSRF (32)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/defense/">Defense (80)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/demo/">Demo (2)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/development/">Development (87)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/events/">Events (32)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/flash/">Flash (13)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/forensics/">Forensics (15)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/funny/">Funny (96)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/incidents/">Incidents (212)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/industrynews/">IndustryNews (384)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/interviews/">Interviews (15)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/metrics/">Metrics (17)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/off_topic/">Off Topic (28)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/papers/">Papers (14)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/purple-team/">Purple Team (1)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/rant/">Rant (48)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/red-team/">Red Team (1)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/research/">Research (163)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/reviews/">Reviews (16)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/sdl/">SDL (50)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/security_tools/">Security Tools (111)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/seo/">SEO (15)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/site_news/">Site News (20)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/surveys/">Surveys (7)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/tools/">Tools (28)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/vendors/">Vendors (37)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/vulns/">Vulns (166)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/wasc/">WASC (46)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/web_application_firewalls/">Web Application Firewalls (18)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/worms/">Worms (32)</a></li>
+
+
+
+
+<li><a href="https://www.cgisecurity.com/xss/">XSS (84)</a></li>
+
+
+
+</ul>
+<!-- end tags -->
+
+<!-- start fav links -->
+<h5>Favorite Links</h5>
+<ul>
+<li><a href="http://www.webappsec.org/" title="The Web Application Security Consortium">The Web Application Security Consortium</a></li>
+<li>&nbsp;</li>
+<li><a href="http://www.qasec.com/" title="QA Security Testing">QA Security: Software Security Testing in Quality Assurance and Development</a></li>
+<li>&nbsp;</li>
+
+<li><a href="http://www.webappsec.org/lists/websecurity/" title="The Web Security Mailing List">The Web Security Mailing List</a></li>
+<li>&nbsp;</li>
+<li><a href="http://rgaucher.info/">Romain Gaucher's Blog</a></li>
+<li>&nbsp;</li>
+<li><a href="https://jeremiahgrossman.blogspot.com/">Jeremiah Grossman's Blog</a></li>
+</ul>
+
+<!-- end fav links -->
+
+<!-- start translate -->
+<h5>Translate</h5>
+<form method="GET" action="https://translate.google.com/translate?">
+<input name="sl" value="en"  type="hidden"  />
+<input name="u" value="http://www.cgisecurity.com/"  type="hidden" />
+<font size="2">
+Pick Your Language
+</font>
+<select name="hl"  onChange="this.form.submit()" style="font-size:12pt;background:white;margin-bottom:10px;">
+ <option value="xx">Choose</option>
+ <option value="es">Spanish</option>
+ <option value="en">English</option>
+ <option value="fr">French</option>
+ <option value="de">German</option>
+ <option value="it">Italian</option>
+</select>
+<br>
+</form>
+
+<!-- end translate -->
+
+<!-- start books -->
+<h5>Security Books</h5>
+<ul>
+<li>
+<a href="https://www.amazon.com/exec/obidos/ASIN/1597491543/wwwcgisecuricom/102-6574365-4679354?%5Fencoding=UTF8&camp=1789&link%5Fcode=xm2"><img src="https://www.cgisecurity.com/images/xssbook.jpg" /></a></li>
+</ul>
+<!-- end books -->
+
+
+
+<!-- start archives --->
+
+
+	<div class="module-archives">
+		<h5 class="module-header"><a href="https://www.cgisecurity.com/archives.html">Archives</a></h5>
+		 <div class="module-content">
+			<ul class="module-list">
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2018/05/index.html">May 2018 (1)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2017/05/index.html">May 2017 (2)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2016/12/index.html">December 2016 (1)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2015/01/index.html">January 2015 (2)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2014/11/index.html">November 2014 (1)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2014/07/index.html">July 2014 (1)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2013/05/index.html">May 2013 (1)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2013/01/index.html">January 2013 (1)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2012/10/index.html">October 2012 (1)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2012/01/index.html">January 2012 (1)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2011/07/index.html">July 2011 (4)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2011/06/index.html">June 2011 (1)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2011/05/index.html">May 2011 (2)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2011/03/index.html">March 2011 (3)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2011/02/index.html">February 2011 (1)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2011/01/index.html">January 2011 (3)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2010/12/index.html">December 2010 (2)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2010/11/index.html">November 2010 (4)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2010/09/index.html">September 2010 (4)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2010/08/index.html">August 2010 (2)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2010/07/index.html">July 2010 (1)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2010/06/index.html">June 2010 (1)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2010/05/index.html">May 2010 (4)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2010/04/index.html">April 2010 (4)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2010/03/index.html">March 2010 (7)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2010/02/index.html">February 2010 (7)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2010/01/index.html">January 2010 (6)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2009/12/index.html">December 2009 (7)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2009/11/index.html">November 2009 (9)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2009/10/index.html">October 2009 (10)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2009/09/index.html">September 2009 (11)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2009/08/index.html">August 2009 (12)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2009/07/index.html">July 2009 (20)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2009/06/index.html">June 2009 (26)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2009/05/index.html">May 2009 (21)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2009/04/index.html">April 2009 (23)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2009/03/index.html">March 2009 (28)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2009/02/index.html">February 2009 (34)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2009/01/index.html">January 2009 (44)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2008/12/index.html">December 2008 (50)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2008/11/index.html">November 2008 (23)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2008/10/index.html">October 2008 (27)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2008/09/index.html">September 2008 (27)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2008/08/index.html">August 2008 (9)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2008/07/index.html">July 2008 (16)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2008/06/index.html">June 2008 (15)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2008/05/index.html">May 2008 (14)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2008/04/index.html">April 2008 (17)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2008/03/index.html">March 2008 (12)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2008/02/index.html">February 2008 (5)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2008/01/index.html">January 2008 (17)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2007/12/index.html">December 2007 (21)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2007/11/index.html">November 2007 (9)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2007/10/index.html">October 2007 (18)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2007/09/index.html">September 2007 (22)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2007/08/index.html">August 2007 (21)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2007/07/index.html">July 2007 (31)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2007/06/index.html">June 2007 (27)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2007/05/index.html">May 2007 (30)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2007/04/index.html">April 2007 (16)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2007/03/index.html">March 2007 (14)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2007/02/index.html">February 2007 (19)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2007/01/index.html">January 2007 (15)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2006/12/index.html">December 2006 (12)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2006/11/index.html">November 2006 (13)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2006/10/index.html">October 2006 (19)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2006/09/index.html">September 2006 (9)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2006/08/index.html">August 2006 (10)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2006/07/index.html">July 2006 (11)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2006/06/index.html">June 2006 (14)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2006/04/index.html">April 2006 (9)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2006/01/index.html">January 2006 (12)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2005/12/index.html">December 2005 (9)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2005/11/index.html">November 2005 (4)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2004/08/index.html">August 2004 (2)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2004/06/index.html">June 2004 (3)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2004/02/index.html">February 2004 (3)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2003/11/index.html">November 2003 (3)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2003/09/index.html">September 2003 (3)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2003/08/index.html">August 2003 (7)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2003/06/index.html">June 2003 (2)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2003/05/index.html">May 2003 (4)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2002/05/index.html">May 2002 (2)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2002/03/index.html">March 2002 (2)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2002/01/index.html">January 2002 (2)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2001/11/index.html">November 2001 (4)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2001/10/index.html">October 2001 (1)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2001/08/index.html">August 2001 (5)</a></li>
+				
+				<li class="module-list"><a href="https://www.cgisecurity.com/2001/07/index.html">July 2001 (3)</a></li>
+				
+			</ul>
+		</div>
+	</div>
+
+<!--- end archives --->
+
+	</div>
+</div>
+
+
+<!-- end leftside -->
+
+<!-- left box -->
+
+<!-- rightside -->
+<!-- start rightside -->
+<div class="navboxwrapright">
+<div class="navboxright">
+
+<!-- Start Search  -->
+<div class="search">
+<form action="https://www.google.com/cse" id="cse-search-box" target="_blank">
+	<div>
+	 <input type="hidden" name="cx" value="partner-pub-9396229490951644:h737tb8djxo" />
+	 <input type="hidden" name="ie" value="ISO-8859-1" />
+	 <input type="text" name="q" size="25" />
+	 <input type="submit" name="sa" value="Search" />
+	</div>
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</div>
+<!-- End Search -->
+
+
+<!-- start last 12 posts -->
+<div class="module-archives module">
+	<h5 class="module-header">Recent entries...</h5>
+	<div class="module-content">
+	<ul class="module-list">
+
+- <a href="https://www.cgisecurity.com/2018/05/my-experiences-leading-purple-team.html">My experience coleading purple team</a> <br />
+
+- <a href="https://www.cgisecurity.com/2017/05/oauth-nightmares-talk.html">oAuth nightmares talk</a> <br />
+
+- <a href="https://www.cgisecurity.com/2017/05/extensive-ios-hacking-guide-released-by-security-innovation.html">Extensive IOS hacking guide released by Security Innovation</a> <br />
+
+- <a href="https://www.cgisecurity.com/2016/12/presentation-problems-youll-face-when-building-a-software-security-program.html">Presentation: Problems you'll face when building a software security program</a> <br />
+
+- <a href="https://www.cgisecurity.com/2015/01/google-policy-results-in-hacked-customers.html">Google's intentions are good, but implementation leave MORE users vulnerable to hacking than before</a> <br />
+
+- <a href="https://www.cgisecurity.com/2015/01/my-experience-with-developer-security-training.html">My experience with developer security training </a> <br />
+
+- <a href="https://www.cgisecurity.com/2014/11/a-reminder-that-what-you-say-at-events-may-show-up-in-unexpected-places-like-the-news.html">A reminder that what you say at events may show up in unexpected places (like the news)</a> <br />
+
+- <a href="https://www.cgisecurity.com/2014/07/malicious-cas-continue-to-cause-headaches.html">Malicious CA's continue to cause headaches</a> <br />
+
+- <a href="https://www.cgisecurity.com/2013/05/wasc-announcement-static-analysis-technologies-evaluation-criteria-published.html">WASC Announcement: Static Analysis Technologies Evaluation Criteria Published</a> <br />
+
+- <a href="https://www.cgisecurity.com/2013/01/poll-how-do-you-rank-the-importance-of-a-vulnerability.html">Poll: How do you rank the importance of a vulnerability?</a> <br />
+
+- <a href="https://www.cgisecurity.com/2012/09/five-pieces-of-advice-for-those-new-to-the-infosec-industry.html">Five pieces of advice for those new to the infosec industry</a> <br />
+
+- <a href="https://www.cgisecurity.com/2012/01/detecting-plagiarism-with-google-and-book-search.html">Security Industry Plagiarism: Finding 3 examples in 5 minutes with Google </a> <br />
+
+	 </ul>
+	</div>
+</div>
+<!-- end last 12 posts -->
+
+
+
+<!-- start ads -->
+<div class="module-archives module">
+	<h5 class="module-header">Sponsored Ads</h5>
+	<div class="module-content">
+	<ul class="module-list">
+<script type="text/javascript"><!--
+google_ad_client = "pub-9396229490951644";
+google_ad_width = 120;
+google_ad_height = 240;
+google_ad_format = "120x240_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+	</ul>
+	</div>
+</div>
+<!-- end ads -->
+
+
+<!-- start popular pages -->
+<div class="module-archives module">
+	<h5 class="module-header">Popular Pages</h5>
+	 <div class="module-content">
+	 <ul class="module-list">
+<li><a href="https://www.cgisecurity.com/questions/securesite.shtml">Website Security</a></li>
+<li><a href="https://www.cgisecurity.com/browser-security.html">Browser Security</A></li>
+<li><a href="https://www.cgisecurity.com/phishing-security.html">Phishing</a></li>
+<li><a href="https://www.cgisecurity.com/rss.html">RSS Security</a></li>
+<li><a href="https://www.cgisecurity.com/security-questions.html">Web Security Questions</a></li>
+<li><a href="https://www.cgisecurity.com/database-security.html">Database Security</a></li>
+<li><a href="https://www.cgisecurity.com/webservers.html">Web Server Security</a></li>
+<li><a href="https://www.cgisecurity.com/appserver-security.html">Application Server Security</a></li>
+<li><a href="https://www.cgisecurity.com/lib.html">Security Documentation</a> 
+<li><a href="https://www.cgisecurity.com/development/xss.shtml">Cross Site Scripting</A></li>
+<li><a href="https://www.cgisecurity.com/articles/xss-faq.shtml">XSS</a></li>
+<li><a href="https://www.cgisecurity.com/articles/csrf-faq.shtml">Cross-site Request Forgery</a></li>
+<li><a class="menu_template1" href="https://www.cgisecurity.com/development/sql.shtml">SQL Injection</a></li>
+<li><a class="menu_template1" href="https://www.cgisecurity.com/ws.html">Web Services Security</a></li>
+<li><a class="menu_template1" href="https://www.cgisecurity.com/ajax-security.html">AJAX Security</a></li>
+<li><a class="menu_template1" href="https://www.cgisecurity.com/dotnet-security.html">.NET Security</A></li>
+<li><a class="menu_template1" href="https://www.cgisecurity.com/java-security.html">Java Security</a></li>
+<li><a class="menu_template1" href="https://www.cgisecurity.com/xml-security.html">XML Security</a></li>
+<li><a class="menu_template1" href="https://www.cgisecurity.com/questions/webappfirewall.shtml">Application Firewalls</a></li>
+<li><a class="menu_template1" href="https://www.cgisecurity.com/iis-security.html">IIS Security</A></li>
+<li><a class="menu_template1" href="https://www.cgisecurity.com/apache-security.html">Apache Security</A></li>
+<li><a class="menu_template1" href="https://www.cgisecurity.com/oracle-security.html">Oracle Security</A></li>
+<li><a class="menu_template1" href="https://www.cgisecurity.com/mysql-security.html">MySQL Security</A></li>
+<li><a class="menu_template1" href="https://www.cgisecurity.com/mssql-security.html">Microsoft SQL Server Security</A></li>
+<li><a class="menu_template1" href="https://www.cgisecurity.com/urlscan.html">URL Scan</A></li>
+<li><a class="menu_template1" href="https://www.cgisecurity.com/modsecurity.html">Mod Security</a></li>
+<li><a class="menu_template1" href="https://www.cgisecurity.com/pentest.html">Penetration Testing</a></li>
+<li><a class="menu_template1" href="https://www.cgisecurity.com/">Security News</a></li>
+	 </ul>
+	</div>
+</div>
+<!-- end popular pages -->
+
+
+<!-- start ads -->
+<div class="module-archives module">
+	<h5 class="module-header">Sponsored Ads</h5>
+	<div class="module-content">
+	<ul class="module-list">
+<script type="text/javascript"><!--
+google_ad_client = "pub-9396229490951644";
+google_ad_width = 120;
+google_ad_height = 240;
+google_ad_format = "120x240_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+	</ul>
+	</div>
+</div>
+<!-- end ads -->
+
+
+<!-- start wasc pages -->
+<div class="module-archives module">
+	<h5 class="module-header"><a href="http://www.webappsec.org/projects/threat/">WASC Threat Classification</a> Vulnerabilities</h5>
+	 <div class="module-content">
+	 <ul class="module-list">
+<li><a href="http://projects.webappsec.org/Abuse-of-Functionality">Abuse of Functionality</a></li>
+<li><a href="http://projects.webappsec.org/Application-Misconfiguration">Application Misconfiguration</a></li>
+<li><a href="http://projects.webappsec.org/Brute-Force">Brute Force Attack</a></li>
+<li><a href="http://projects.webappsec.org/Content-Spoofing">Content Spoofing</a></li>
+<li><a href="http://projects.webappsec.org/Credential-and-Session-Prediction">Credential/Session Prediction</a></li>
+<li><a href="http://projects.webappsec.org/Denial-of-Service">Denial of Service</a></li>
+<li><a href="http://projects.webappsec.org/Directory-Indexing">Directory Indexing</a></li>
+<li><a href="http://projects.webappsec.org/Information-Leakage">Information Leakage</a></li>
+<li><a href="http://projects.webappsec.org/Remote-File-Inclusion">Remote File Inclusion Attack</a></li>
+<li><a href="http://projects.webappsec.org/Routing-Detour">Routing Detour Attack</a></li>
+<li><a href="http://projects.webappsec.org/SOAP-Array-Abuse">SOAP Array Abuse</a></li>
+<li><a href="http://projects.webappsec.org/XML-Attribute-Blowup">XML Attribute Blowup</a></li>
+<li><a href="http://projects.webappsec.org/XML-Injection">XML Injection</a></li>
+<li><a href="http://projects.webappsec.org/XML-External-Entities">XML External Entity Attack</a></li>
+	 </ul>
+	</div>
+</div>
+<!-- end was pages -->
+
+
+<!-- Start wasc logo -->
+<ul>
+<a href="http://www.webappsec.org/"><img src="/images/wasc_logo.gif"></a>
+</ul>
+<!-- end wasc logo -->
+
+
+
+
+
+<!--- Start RSS --->
+<div class="module-archives module">
+	<h5 class="module-header">The Web Security Mailing List</h5>
+<div class="module-content" id="feed-67bdd149e38b78a348ecbbf24fa0aeb6d78bee64">
+	 <ul class="module-list">
+<script src="https://www.typepad.com/t/content?src=Feed:http%3A%2F%2Fwebappsec.org/rss/websecurity.rss,10" defer="defer"></script>
+</div>
+</div> 
+<!--- End RSS --->
+
+</div> <!-- class="navboxright" -->
+</div> <!-- class="navboxwrapright" -->
+
+<!-- end rightside -->
+
+<!-- rightside -->
+
+<!-- shortentrylist -->
+<!-- start short entrylist -->
+<div id="main">
+
+
+
+
+	<div class="entry" id="entry-6a00e553aa1a2888330223c84dbbec200c">
+		
+			<h2><a href="https://www.cgisecurity.com/2018/05/my-experiences-leading-purple-team.html"> My experience coleading purple team</a></h2>
+		
+<div class="line"></div>
+		<div class="entry-content">
+			<div class="entry-body">
+				I&#39;ve been fortunate enough to manage a red team program for several years and since it&#39;s inception it has gone through many changes. What started out as adhoc engagements trying to see how far we could get/what problems we could find, turned into a mechanism to work more closely, and regularly with...
+			</div>
+			
+			
+		</div>
+		<div class="entry-footer">
+			<p>
+Posted by Robert A. on 05/29/2018  in <a href="https://www.cgisecurity.com/blue-team/">Blue Team</a>
+
+, <a href="https://www.cgisecurity.com/buzzwords/">Buzzwords</a>
+
+, <a href="https://www.cgisecurity.com/commentary/">Commentary</a>
+
+, <a href="https://www.cgisecurity.com/defense/">Defense</a>
+
+, <a href="https://www.cgisecurity.com/forensics/">Forensics</a>
+
+, <a href="https://www.cgisecurity.com/industrynews/">IndustryNews</a>
+
+, <a href="https://www.cgisecurity.com/purple-team/">Purple Team</a>
+
+, <a href="https://www.cgisecurity.com/rant/">Rant</a>
+
+, <a href="https://www.cgisecurity.com/red-team/">Red Team</a>
+
+, <a href="https://www.cgisecurity.com/research/">Research</a>
+
+, <a href="https://www.cgisecurity.com/vulns/">Vulns</a>
+
+ | <a href="https://www.cgisecurity.com/2018/05/my-experiences-leading-purple-team.html">Permalink</a>  
+| 
+<a target="blank" class="menu_template1" href="https://www.reddit.com/submit?url=https://www.cgisecurity.com/2018/05/my-experiences-leading-purple-team.html">Reddit</a>
+
+
+				
+					
+						<span class="separator">|</span>
+					
+					<a href="https://www.cgisecurity.com/2018/05/my-experiences-leading-purple-team.html#comments">Comments (0)</a>
+				
+				
+ <a href="https://www.cgisecurity.com/2018/05/my-experiences-leading-purple-team.html">Read more of this story...</a>
+			</p>
+			<!-- technorati tags -->
+
+    
+    <p class="entry-footer-tags font-entryfooter">
+        Tags:
+        blue team, blue teaming, purple team, purple teaming, red team, red teaming
+    </p>
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+		<div class="line"></div>
+	</div>
+
+	<div class="entry" id="entry-6a00e553aa1a28883301b7c8fd7cd7970b">
+		
+			<h2><a href="https://www.cgisecurity.com/2017/05/oauth-nightmares-talk.html"> oAuth nightmares talk</a></h2>
+		
+<div class="line"></div>
+		<div class="entry-content">
+			<div class="entry-body">
+				Two of my co workers have presented at HackMiami on flaws people implement in their oauth implementations. The talk summary is below &quot;OAuth is one of the most popular authorization frameworks in use today. All major platforms such as Google, Facebook, Box etc support it and you are probably thinking of implementing...
+			</div>
+			
+			
+		</div>
+		<div class="entry-footer">
+			<p>
+Posted by Robert A. on 05/30/2017   | <a href="https://www.cgisecurity.com/2017/05/oauth-nightmares-talk.html">Permalink</a>  
+| 
+<a target="blank" class="menu_template1" href="https://www.reddit.com/submit?url=https://www.cgisecurity.com/2017/05/oauth-nightmares-talk.html">Reddit</a>
+
+
+				
+					
+						<span class="separator">|</span>
+					
+					<a href="https://www.cgisecurity.com/2017/05/oauth-nightmares-talk.html#comments">Comments (0)</a>
+				
+				
+ <a href="https://www.cgisecurity.com/2017/05/oauth-nightmares-talk.html">Read more of this story...</a>
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+		<div class="line"></div>
+	</div>
+
+	<div class="entry" id="entry-6a00e553aa1a28883301b7c8fa085a970b">
+		
+			<h2><a href="https://www.cgisecurity.com/2017/05/extensive-ios-hacking-guide-released-by-security-innovation.html"> Extensive IOS hacking guide released by Security Innovation</a></h2>
+		
+<div class="line"></div>
+		<div class="entry-content">
+			<div class="entry-body">
+				Security Innovation has published a very extensive guide to IOS hacking that&#39;s worth checking out. Here&#39;s the table of contents 1. Setting Up iOS Pentest Lab.................. 5 1.1 Get an iOS Device...................5 1.2 Jailbreaking an iOS Device.................. 7 1.3 Installing Required Software and Utilities .................. 10 2. Acquiring iOS Binaries.................. 13 3....
+			</div>
+			
+			
+		</div>
+		<div class="entry-footer">
+			<p>
+Posted by Robert A. on 05/19/2017  in <a href="https://www.cgisecurity.com/development/">Development</a>
+
+, <a href="https://www.cgisecurity.com/forensics/">Forensics</a>
+
+, <a href="https://www.cgisecurity.com/industrynews/">IndustryNews</a>
+
+ | <a href="https://www.cgisecurity.com/2017/05/extensive-ios-hacking-guide-released-by-security-innovation.html">Permalink</a>  
+| 
+<a target="blank" class="menu_template1" href="https://www.reddit.com/submit?url=https://www.cgisecurity.com/2017/05/extensive-ios-hacking-guide-released-by-security-innovation.html">Reddit</a>
+
+
+				
+					
+						<span class="separator">|</span>
+					
+					<a href="https://www.cgisecurity.com/2017/05/extensive-ios-hacking-guide-released-by-security-innovation.html#comments">Comments (0)</a>
+				
+				
+ <a href="https://www.cgisecurity.com/2017/05/extensive-ios-hacking-guide-released-by-security-innovation.html">Read more of this story...</a>
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+		<div class="line"></div>
+	</div>
+
+	<div class="entry" id="entry-6a00e553aa1a28883301bb095c60d1970d">
+		
+			<h2><a href="https://www.cgisecurity.com/2016/12/presentation-problems-youll-face-when-building-a-software-security-program.html"> Presentation: Problems you'll face when building a software security program</a></h2>
+		
+<div class="line"></div>
+		<div class="entry-content">
+			<div class="entry-body">
+				A video for a talk I gave at LASCON last year made it online that some folks may find interesting. I rarely give public talks, but felt this information would have been useful to learn earlier in my career. Basically it goes through problems I&#39;ve had to deal with building out appsec...
+			</div>
+			
+			
+		</div>
+		<div class="entry-footer">
+			<p>
+Posted by Robert A. on 12/06/2016  in <a href="https://www.cgisecurity.com/announcements/">Announcements</a>
+
+, <a href="https://www.cgisecurity.com/rant/">Rant</a>
+
+, <a href="https://www.cgisecurity.com/research/">Research</a>
+
+, <a href="https://www.cgisecurity.com/sdl/">SDL</a>
+
+, <a href="https://www.cgisecurity.com/vulns/">Vulns</a>
+
+ | <a href="https://www.cgisecurity.com/2016/12/presentation-problems-youll-face-when-building-a-software-security-program.html">Permalink</a>  
+| 
+<a target="blank" class="menu_template1" href="https://www.reddit.com/submit?url=https://www.cgisecurity.com/2016/12/presentation-problems-youll-face-when-building-a-software-security-program.html">Reddit</a>
+
+
+				
+					
+						<span class="separator">|</span>
+					
+					<a href="https://www.cgisecurity.com/2016/12/presentation-problems-youll-face-when-building-a-software-security-program.html#comments">Comments (0)</a>
+				
+				
+ <a href="https://www.cgisecurity.com/2016/12/presentation-problems-youll-face-when-building-a-software-security-program.html">Read more of this story...</a>
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+		<div class="line"></div>
+	</div>
+
+	<div class="entry" id="entry-6a00e553aa1a28883301bb07e12734970d">
+		
+			<h2><a href="https://www.cgisecurity.com/2015/01/google-policy-results-in-hacked-customers.html"> Google's intentions are good, but implementation leave MORE users vulnerable to hacking than before</a></h2>
+		
+<div class="line"></div>
+		<div class="entry-content">
+			<div class="entry-body">
+				In 2010 I wrote an article about a flaw Google discovered, and published working exploit code when no fix or mitigation existed. This allowed attackers to immediately start using the flaw to hack Google&#39;s own users (in this case, the world). Since then Google has announced a new program &#39;Project Zero&#39; which...
+			</div>
+			
+			
+		</div>
+		<div class="entry-footer">
+			<p>
+Posted by Robert A. on 01/26/2015  in <a href="https://www.cgisecurity.com/commentary/">Commentary</a>
+
+, <a href="https://www.cgisecurity.com/industrynews/">IndustryNews</a>
+
+, <a href="https://www.cgisecurity.com/rant/">Rant</a>
+
+, <a href="https://www.cgisecurity.com/research/">Research</a>
+
+, <a href="https://www.cgisecurity.com/reviews/">Reviews</a>
+
+, <a href="https://www.cgisecurity.com/sdl/">SDL</a>
+
+, <a href="https://www.cgisecurity.com/vendors/">Vendors</a>
+
+, <a href="https://www.cgisecurity.com/vulns/">Vulns</a>
+
+ | <a href="https://www.cgisecurity.com/2015/01/google-policy-results-in-hacked-customers.html">Permalink</a>  
+| 
+<a target="blank" class="menu_template1" href="https://www.reddit.com/submit?url=https://www.cgisecurity.com/2015/01/google-policy-results-in-hacked-customers.html">Reddit</a>
+
+
+				
+					
+						<span class="separator">|</span>
+					
+					<a href="https://www.cgisecurity.com/2015/01/google-policy-results-in-hacked-customers.html#comments">Comments (2)</a>
+				
+				
+					
+						<span class="separator">|</span>
+					
+					
+					
+				
+ <a href="https://www.cgisecurity.com/2015/01/google-policy-results-in-hacked-customers.html">Read more of this story...</a>
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+		<div class="line"></div>
+	</div>
+
+	<div class="entry" id="entry-6a00e553aa1a28883301b7c73b49b8970b">
+		
+			<h2><a href="https://www.cgisecurity.com/2015/01/my-experience-with-developer-security-training.html"> My experience with developer security training </a></h2>
+		
+<div class="line"></div>
+		<div class="entry-content">
+			<div class="entry-body">
+				I&#39;ve been busy this past year which has resulted in almost no updates to this site. Consider this one of many rants/posts of my experience/s in the industry during this time. This post covers a topic I think many people implement poorly, which is security training targeting developers. How most people implement...
+			</div>
+			
+			
+		</div>
+		<div class="entry-footer">
+			<p>
+Posted by Robert A. on 01/20/2015  in <a href="https://www.cgisecurity.com/commentary/">Commentary</a>
+
+, <a href="https://www.cgisecurity.com/defense/">Defense</a>
+
+, <a href="https://www.cgisecurity.com/development/">Development</a>
+
+, <a href="https://www.cgisecurity.com/rant/">Rant</a>
+
+, <a href="https://www.cgisecurity.com/sdl/">SDL</a>
+
+ | <a href="https://www.cgisecurity.com/2015/01/my-experience-with-developer-security-training.html">Permalink</a>  
+| 
+<a target="blank" class="menu_template1" href="https://www.reddit.com/submit?url=https://www.cgisecurity.com/2015/01/my-experience-with-developer-security-training.html">Reddit</a>
+
+
+				
+					
+						<span class="separator">|</span>
+					
+					<a href="https://www.cgisecurity.com/2015/01/my-experience-with-developer-security-training.html#comments">Comments (4)</a>
+				
+				
+					
+						<span class="separator">|</span>
+					
+					
+					
+				
+ <a href="https://www.cgisecurity.com/2015/01/my-experience-with-developer-security-training.html">Read more of this story...</a>
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+		<div class="line"></div>
+	</div>
+
+	<div class="entry" id="entry-6a00e553aa1a28883301b7c701c4bd970b">
+		
+			<h2><a href="https://www.cgisecurity.com/2014/11/a-reminder-that-what-you-say-at-events-may-show-up-in-unexpected-places-like-the-news.html"> A reminder that what you say at events may show up in unexpected places (like the news)</a></h2>
+		
+<div class="line"></div>
+		<div class="entry-content">
+			<div class="entry-body">
+				Last week I was fortunate enough to be invited to a Yahoo event discussing bug bounty programs where all the organizers of these bounties were discussing their experiences. I attended this conference because years earlier I was involved in creating PayPal&#39;s bug bounty program and wanted to ask a panel of people...
+			</div>
+			
+			
+		</div>
+		<div class="entry-footer">
+			<p>
+Posted by Robert A. on 11/06/2014  in <a href="https://www.cgisecurity.com/interviews/">Interviews</a>
+
+, <a href="https://www.cgisecurity.com/off_topic/">Off Topic</a>
+
+, <a href="https://www.cgisecurity.com/rant/">Rant</a>
+
+ | <a href="https://www.cgisecurity.com/2014/11/a-reminder-that-what-you-say-at-events-may-show-up-in-unexpected-places-like-the-news.html">Permalink</a>  
+| 
+<a target="blank" class="menu_template1" href="https://www.reddit.com/submit?url=https://www.cgisecurity.com/2014/11/a-reminder-that-what-you-say-at-events-may-show-up-in-unexpected-places-like-the-news.html">Reddit</a>
+
+
+				
+					
+						<span class="separator">|</span>
+					
+					<a href="https://www.cgisecurity.com/2014/11/a-reminder-that-what-you-say-at-events-may-show-up-in-unexpected-places-like-the-news.html#comments">Comments (0)</a>
+				
+				
+					
+						<span class="separator">|</span>
+					
+					
+					
+				
+ <a href="https://www.cgisecurity.com/2014/11/a-reminder-that-what-you-say-at-events-may-show-up-in-unexpected-places-like-the-news.html">Read more of this story...</a>
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+		<div class="line"></div>
+	</div>
+
+	<div class="entry" id="entry-6a00e553aa1a28883301a511dd715d970c">
+		
+			<h2><a href="https://www.cgisecurity.com/2014/07/malicious-cas-continue-to-cause-headaches.html"> Malicious CA's continue to cause headaches</a></h2>
+		
+<div class="line"></div>
+		<div class="entry-content">
+			<div class="entry-body">
+				Google published today that yet another CA has been caught generating certs for Google&#39;s domains. This problem is likely occuring on a much larger scale and seems to be detected by chance. Some have suggested crawling the internet and starting a DB, and while this may detect some issues it&#39;s limited for...
+			</div>
+			
+			
+		</div>
+		<div class="entry-footer">
+			<p>
+Posted by Robert A. on 07/08/2014  in <a href="https://www.cgisecurity.com/commentary/">Commentary</a>
+
+, <a href="https://www.cgisecurity.com/industrynews/">IndustryNews</a>
+
+, <a href="https://www.cgisecurity.com/rant/">Rant</a>
+
+ | <a href="https://www.cgisecurity.com/2014/07/malicious-cas-continue-to-cause-headaches.html">Permalink</a>  
+| 
+<a target="blank" class="menu_template1" href="https://www.reddit.com/submit?url=https://www.cgisecurity.com/2014/07/malicious-cas-continue-to-cause-headaches.html">Reddit</a>
+
+
+				
+					
+						<span class="separator">|</span>
+					
+					<a href="https://www.cgisecurity.com/2014/07/malicious-cas-continue-to-cause-headaches.html#comments">Comments (0)</a>
+				
+				
+					
+						<span class="separator">|</span>
+					
+					
+					
+				
+ <a href="https://www.cgisecurity.com/2014/07/malicious-cas-continue-to-cause-headaches.html">Read more of this story...</a>
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+		<div class="line"></div>
+	</div>
+
+	<div class="entry" id="entry-6a00e553aa1a28883301901c079c38970b">
+		
+			<h2><a href="https://www.cgisecurity.com/2013/05/wasc-announcement-static-analysis-technologies-evaluation-criteria-published.html"> WASC Announcement: Static Analysis Technologies Evaluation Criteria Published</a></h2>
+		
+<div class="line"></div>
+		<div class="entry-content">
+			<div class="entry-body">
+				The Web Application Security Consortium (WASC) is pleased to announce the Static Analysis Technologies Evaluation Criteria. The goal of the SATEC project is to create a vendor-neutral set of criteria to help guide application security professionals during the process of acquiring a static code analysis technology that is intended to be used...
+			</div>
+			
+			
+		</div>
+		<div class="entry-footer">
+			<p>
+Posted by Robert A. on 05/10/2013  in <a href="https://www.cgisecurity.com/announcements/">Announcements</a>
+
+, <a href="https://www.cgisecurity.com/industrynews/">IndustryNews</a>
+
+, <a href="https://www.cgisecurity.com/security_tools/">Security Tools</a>
+
+, <a href="https://www.cgisecurity.com/wasc/">WASC</a>
+
+ | <a href="https://www.cgisecurity.com/2013/05/wasc-announcement-static-analysis-technologies-evaluation-criteria-published.html">Permalink</a>  
+| 
+<a target="blank" class="menu_template1" href="https://www.reddit.com/submit?url=https://www.cgisecurity.com/2013/05/wasc-announcement-static-analysis-technologies-evaluation-criteria-published.html">Reddit</a>
+
+
+				
+					
+						<span class="separator">|</span>
+					
+					<a href="https://www.cgisecurity.com/2013/05/wasc-announcement-static-analysis-technologies-evaluation-criteria-published.html#comments">Comments (0)</a>
+				
+				
+					
+						<span class="separator">|</span>
+					
+					
+					
+				
+ <a href="https://www.cgisecurity.com/2013/05/wasc-announcement-static-analysis-technologies-evaluation-criteria-published.html">Read more of this story...</a>
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+		<div class="line"></div>
+	</div>
+
+	<div class="entry" id="entry-6a00e553aa1a288833017ee727218e970d">
+		
+			<h2><a href="https://www.cgisecurity.com/2013/01/poll-how-do-you-rank-the-importance-of-a-vulnerability.html"> Poll: How do you rank the importance of a vulnerability?</a></h2>
+		
+<div class="line"></div>
+		<div class="entry-content">
+			<div class="entry-body">
+				I&#39;ve added a new poll to the WASC linkedin group that a few of you may be interested in. Specifically asking how people rank the importance of vulnerabilities. Poll Link http://www.linkedin.com/groups/How-do-you-rank-importance-83336.S.202840840
+			</div>
+			
+			
+		</div>
+		<div class="entry-footer">
+			<p>
+Posted by Robert A. on 01/09/2013  in <a href="https://www.cgisecurity.com/research/">Research</a>
+
+, <a href="https://www.cgisecurity.com/sdl/">SDL</a>
+
+, <a href="https://www.cgisecurity.com/vulns/">Vulns</a>
+
+ | <a href="https://www.cgisecurity.com/2013/01/poll-how-do-you-rank-the-importance-of-a-vulnerability.html">Permalink</a>  
+| 
+<a target="blank" class="menu_template1" href="https://www.reddit.com/submit?url=https://www.cgisecurity.com/2013/01/poll-how-do-you-rank-the-importance-of-a-vulnerability.html">Reddit</a>
+
+
+				
+					
+						<span class="separator">|</span>
+					
+					<a href="https://www.cgisecurity.com/2013/01/poll-how-do-you-rank-the-importance-of-a-vulnerability.html#comments">Comments (0)</a>
+				
+				
+					
+						<span class="separator">|</span>
+					
+					
+					
+				
+ <a href="https://www.cgisecurity.com/2013/01/poll-how-do-you-rank-the-importance-of-a-vulnerability.html">Read more of this story...</a>
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+		<div class="line"></div>
+	</div>
+
+	<div class="entry" id="entry-6a00e553aa1a288833017ee3e2ee43970d">
+		
+			<h2><a href="https://www.cgisecurity.com/2012/09/five-pieces-of-advice-for-those-new-to-the-infosec-industry.html"> Five pieces of advice for those new to the infosec industry</a></h2>
+		
+<div class="line"></div>
+		<div class="entry-content">
+			<div class="entry-body">
+				I&#39;ve worked in the security field in various roles (script kiddie, security researcher, incident response, application security engineer, security consultant, strategy, etc..) and thought I&#39;d share a few points to those of you starting out in the security industry. Things are worse than you expect The reality is that companies, even large...
+			</div>
+			
+			
+		</div>
+		<div class="entry-footer">
+			<p>
+Posted by Robert A. on 10/31/2012  in <a href="https://www.cgisecurity.com/commentary/">Commentary</a>
+
+, <a href="https://www.cgisecurity.com/development/">Development</a>
+
+, <a href="https://www.cgisecurity.com/funny/">Funny</a>
+
+, <a href="https://www.cgisecurity.com/incidents/">Incidents</a>
+
+, <a href="https://www.cgisecurity.com/industrynews/">IndustryNews</a>
+
+, <a href="https://www.cgisecurity.com/rant/">Rant</a>
+
+, <a href="https://www.cgisecurity.com/sdl/">SDL</a>
+
+ | <a href="https://www.cgisecurity.com/2012/09/five-pieces-of-advice-for-those-new-to-the-infosec-industry.html">Permalink</a>  
+| 
+<a target="blank" class="menu_template1" href="https://www.reddit.com/submit?url=https://www.cgisecurity.com/2012/09/five-pieces-of-advice-for-those-new-to-the-infosec-industry.html">Reddit</a>
+
+
+				
+					
+						<span class="separator">|</span>
+					
+					<a href="https://www.cgisecurity.com/2012/09/five-pieces-of-advice-for-those-new-to-the-infosec-industry.html#comments">Comments (3)</a>
+				
+				
+					
+						<span class="separator">|</span>
+					
+					
+					
+				
+ <a href="https://www.cgisecurity.com/2012/09/five-pieces-of-advice-for-those-new-to-the-infosec-industry.html">Read more of this story...</a>
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+		<div class="line"></div>
+	</div>
+
+	<div class="entry" id="entry-6a00e553aa1a288833015437d07740970c">
+		
+			<h2><a href="https://www.cgisecurity.com/2012/01/detecting-plagiarism-with-google-and-book-search.html"> Security Industry Plagiarism: Finding 3 examples in 5 minutes with Google </a></h2>
+		
+<div class="line"></div>
+		<div class="entry-content">
+			<div class="entry-body">
+				UPDATE: One of the authors has posted two responses including an apology (accepted). I was taught in grade school that if you plan on writing something, never plagiarize. If you want to republish portions of existing content ensure you properly quote/reference them, and never represent this content as your own original work....
+			</div>
+			
+			
+		</div>
+		<div class="entry-footer">
+			<p>
+Posted by Robert A. on 01/07/2012  in <a href="https://www.cgisecurity.com/books/">Books</a>
+
+, <a href="https://www.cgisecurity.com/commentary/">Commentary</a>
+
+, <a href="https://www.cgisecurity.com/forensics/">Forensics</a>
+
+, <a href="https://www.cgisecurity.com/funny/">Funny</a>
+
+, <a href="https://www.cgisecurity.com/industrynews/">IndustryNews</a>
+
+, <a href="https://www.cgisecurity.com/off_topic/">Off Topic</a>
+
+, <a href="https://www.cgisecurity.com/rant/">Rant</a>
+
+, <a href="https://www.cgisecurity.com/site_news/">Site News</a>
+
+, <a href="https://www.cgisecurity.com/xss/">XSS</a>
+
+ | <a href="https://www.cgisecurity.com/2012/01/detecting-plagiarism-with-google-and-book-search.html">Permalink</a>  
+| 
+<a target="blank" class="menu_template1" href="https://www.reddit.com/submit?url=https://www.cgisecurity.com/2012/01/detecting-plagiarism-with-google-and-book-search.html">Reddit</a>
+
+
+				
+					
+						<span class="separator">|</span>
+					
+					<a href="https://www.cgisecurity.com/2012/01/detecting-plagiarism-with-google-and-book-search.html#comments">Comments (0)</a>
+				
+				
+					
+						<span class="separator">|</span>
+					
+					
+					
+				
+ <a href="https://www.cgisecurity.com/2012/01/detecting-plagiarism-with-google-and-book-search.html">Read more of this story...</a>
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+		<div class="line"></div>
+	</div>
+
+	<div class="entry" id="entry-6a00e553aa1a288833015434107d2b970c">
+		
+			<h2><a href="https://www.cgisecurity.com/2011/07/quick-defconblackhat-preperation-list.html"> Quick defcon/blackhat preparation list</a></h2>
+		
+<div class="line"></div>
+		<div class="entry-content">
+			<div class="entry-body">
+				A couple of people had asked me what are some things that you can do prior to attending hacker cons such as Blackhat and Defcon. Kurt Cobain said it best &quot;Just because you&#39;re paranoid, doesn&#39;t mean they&#39;re not after you&#39;. Here&#39;s a short list (albeit not complete as I don&#39;t plan to...
+			</div>
+			
+			
+		</div>
+		<div class="entry-footer">
+			<p>
+Posted by Robert A. on 07/28/2011  in <a href="https://www.cgisecurity.com/events/">Events</a>
+
+, <a href="https://www.cgisecurity.com/funny/">Funny</a>
+
+, <a href="https://www.cgisecurity.com/industrynews/">IndustryNews</a>
+
+ | <a href="https://www.cgisecurity.com/2011/07/quick-defconblackhat-preperation-list.html">Permalink</a>  
+| 
+<a target="blank" class="menu_template1" href="https://www.reddit.com/submit?url=https://www.cgisecurity.com/2011/07/quick-defconblackhat-preperation-list.html">Reddit</a>
+
+
+				
+					
+						<span class="separator">|</span>
+					
+					<a href="https://www.cgisecurity.com/2011/07/quick-defconblackhat-preperation-list.html#comments">Comments (2)</a>
+				
+				
+ <a href="https://www.cgisecurity.com/2011/07/quick-defconblackhat-preperation-list.html">Read more of this story...</a>
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+		<div class="line"></div>
+	</div>
+
+	<div class="entry" id="entry-6a00e553aa1a28883301543409c1d8970c">
+		
+			<h2><a href="https://www.cgisecurity.com/2011/07/summary-of-google-browser-security-protections.html"> Summary of Google+ browser security protections</a></h2>
+		
+<div class="line"></div>
+		<div class="entry-content">
+			<div class="entry-body">
+				Ray &quot;Vanhalen&quot; Kelly has written a post describing the security mechanisms used by Google+, as well as compares them to facebook. In particular he reviews each HTTP protection header and provides a good explanation of the purpose of each protection. Link: https://www.barracudanetworks.com/blogs/labsblog?bid=1743
+			</div>
+			
+			
+		</div>
+		<div class="entry-footer">
+			<p>
+Posted by Robert A. on 07/27/2011  in <a href="https://www.cgisecurity.com/browsers/">Browsers</a>
+
+, <a href="https://www.cgisecurity.com/industrynews/">IndustryNews</a>
+
+ | <a href="https://www.cgisecurity.com/2011/07/summary-of-google-browser-security-protections.html">Permalink</a>  
+| 
+<a target="blank" class="menu_template1" href="https://www.reddit.com/submit?url=https://www.cgisecurity.com/2011/07/summary-of-google-browser-security-protections.html">Reddit</a>
+
+
+				
+					
+						<span class="separator">|</span>
+					
+					<a href="https://www.cgisecurity.com/2011/07/summary-of-google-browser-security-protections.html#comments">Comments (1)</a>
+				
+				
+					
+						<span class="separator">|</span>
+					
+					
+					
+				
+ <a href="https://www.cgisecurity.com/2011/07/summary-of-google-browser-security-protections.html">Read more of this story...</a>
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+		<div class="line"></div>
+	</div>
+
+	<div class="entry" id="entry-6a00e553aa1a2888330153901404c9970b">
+		
+			<h2><a href="https://www.cgisecurity.com/2011/07/paper-web-application-finger-printing-methodstechniques-and-prevention.html"> Paper: Web Application finger printing Methods/Techniques and Prevention</a></h2>
+		
+<div class="line"></div>
+		<div class="entry-content">
+			<div class="entry-body">
+				Anant Shrivastava has posted a whitepaper providing a rundown of application fingerprinting methodologies, as well as comparisons of various tools such as W3af, BlindElephant, and Wapplyzer. &quot;This Paper discusses about a relatively nascent field of Web Application finger printing, how automated web application fingerprinting is performed in the current scenarios, what are...
+			</div>
+			
+			
+		</div>
+		<div class="entry-footer">
+			<p>
+Posted by Robert A. on 07/21/2011  in <a href="https://www.cgisecurity.com/industrynews/">IndustryNews</a>
+
+, <a href="https://www.cgisecurity.com/research/">Research</a>
+
+ | <a href="https://www.cgisecurity.com/2011/07/paper-web-application-finger-printing-methodstechniques-and-prevention.html">Permalink</a>  
+| 
+<a target="blank" class="menu_template1" href="https://www.reddit.com/submit?url=https://www.cgisecurity.com/2011/07/paper-web-application-finger-printing-methodstechniques-and-prevention.html">Reddit</a>
+
+
+				
+					
+						<span class="separator">|</span>
+					
+					<a href="https://www.cgisecurity.com/2011/07/paper-web-application-finger-printing-methodstechniques-and-prevention.html#comments">Comments (0)</a>
+				
+				
+					
+						<span class="separator">|</span>
+					
+					
+					
+				
+ <a href="https://www.cgisecurity.com/2011/07/paper-web-application-finger-printing-methodstechniques-and-prevention.html">Read more of this story...</a>
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+		<div class="line"></div>
+	</div>
+
+	<div class="entry" id="entry-6a00e553aa1a288833014e899fad3a970d">
+		
+			<h2><a href="https://www.cgisecurity.com/2011/07/oracle-website-vulnerable-to-sql-injection.html"> Oracle website vulnerable to SQL Injection</a></h2>
+		
+<div class="line"></div>
+		<div class="entry-content">
+			<div class="entry-body">
+				Someone has published a SQL Injection in labs.oracle.com at http://www.thehackernews.com/2011/07/oracle-website-vulnerable-to-sql.html . That is all.
+			</div>
+			
+			
+		</div>
+		<div class="entry-footer">
+			<p>
+Posted by Robert A. on 07/05/2011  in <a href="https://www.cgisecurity.com/funny/">Funny</a>
+
+, <a href="https://www.cgisecurity.com/incidents/">Incidents</a>
+
+, <a href="https://www.cgisecurity.com/industrynews/">IndustryNews</a>
+
+, <a href="https://www.cgisecurity.com/vulns/">Vulns</a>
+
+ | <a href="https://www.cgisecurity.com/2011/07/oracle-website-vulnerable-to-sql-injection.html">Permalink</a>  
+| 
+<a target="blank" class="menu_template1" href="https://www.reddit.com/submit?url=https://www.cgisecurity.com/2011/07/oracle-website-vulnerable-to-sql-injection.html">Reddit</a>
+
+
+				
+					
+						<span class="separator">|</span>
+					
+					<a href="https://www.cgisecurity.com/2011/07/oracle-website-vulnerable-to-sql-injection.html#comments">Comments (1)</a>
+				
+				
+					
+						<span class="separator">|</span>
+					
+					
+					
+				
+ <a href="https://www.cgisecurity.com/2011/07/oracle-website-vulnerable-to-sql-injection.html">Read more of this story...</a>
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+		<div class="line"></div>
+	</div>
+
+	<div class="entry" id="entry-6a00e553aa1a288833014e896db9c3970d">
+		
+			<h2><a href="https://www.cgisecurity.com/2011/06/wasc-announcement-static-analysis-tool-evaluation-criteria-call-for-participants.html"> WASC Announcement: 'Static Analysis Tool Evaluation Criteria' Call For Participants</a></h2>
+		
+<div class="line"></div>
+		<div class="entry-content">
+			<div class="entry-body">
+				I sent the following out to The Web Security Mailing List (which I moderate) announcing a new WASC Project. &quot;The Web Application Security Consortium is pleased to announce a new project &quot;Static Analysis Tool Evaluation Criteria (SATEC)&quot;. Currently WASC is seeking volunteers from various sections of the community including security researchers, academics,...
+			</div>
+			
+			
+		</div>
+		<div class="entry-footer">
+			<p>
+Posted by Robert A. on 06/27/2011  in <a href="https://www.cgisecurity.com/announcements/">Announcements</a>
+
+, <a href="https://www.cgisecurity.com/industrynews/">IndustryNews</a>
+
+, <a href="https://www.cgisecurity.com/research/">Research</a>
+
+, <a href="https://www.cgisecurity.com/sdl/">SDL</a>
+
+, <a href="https://www.cgisecurity.com/security_tools/">Security Tools</a>
+
+, <a href="https://www.cgisecurity.com/wasc/">WASC</a>
+
+ | <a href="https://www.cgisecurity.com/2011/06/wasc-announcement-static-analysis-tool-evaluation-criteria-call-for-participants.html">Permalink</a>  
+| 
+<a target="blank" class="menu_template1" href="https://www.reddit.com/submit?url=https://www.cgisecurity.com/2011/06/wasc-announcement-static-analysis-tool-evaluation-criteria-call-for-participants.html">Reddit</a>
+
+
+				
+					
+						<span class="separator">|</span>
+					
+					<a href="https://www.cgisecurity.com/2011/06/wasc-announcement-static-analysis-tool-evaluation-criteria-call-for-participants.html#comments">Comments (0)</a>
+				
+				
+					
+						<span class="separator">|</span>
+					
+					
+					
+				
+ <a href="https://www.cgisecurity.com/2011/06/wasc-announcement-static-analysis-tool-evaluation-criteria-call-for-participants.html">Read more of this story...</a>
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+		<div class="line"></div>
+	</div>
+
+	<div class="entry" id="entry-6a00e553aa1a28883301538eb65af4970b">
+		
+			<h2><a href="https://www.cgisecurity.com/2011/05/results-of-internet-ssl-usage-published-by-ssl-labs.html"> Results of internet SSL usage published by SSL Labs</a></h2>
+		
+<div class="line"></div>
+		<div class="entry-content">
+			<div class="entry-body">
+				Ivan Ristic (of modsecurity fame) has published the results of an evaluation against over 900,000 websites supporting SSL. The goal of this evaluation was to see how people really use/misuse ssl in the wild, as well as report on the usage of browser protections such as the Secure cookie flag, and Strict-Transport-Security....
+			</div>
+			
+			
+		</div>
+		<div class="entry-footer">
+			<p>
+Posted by Robert A. on 05/25/2011  in <a href="https://www.cgisecurity.com/browsers/">Browsers</a>
+
+, <a href="https://www.cgisecurity.com/cryptography/">Cryptography</a>
+
+, <a href="https://www.cgisecurity.com/industrynews/">IndustryNews</a>
+
+, <a href="https://www.cgisecurity.com/research/">Research</a>
+
+, <a href="https://www.cgisecurity.com/vulns/">Vulns</a>
+
+ | <a href="https://www.cgisecurity.com/2011/05/results-of-internet-ssl-usage-published-by-ssl-labs.html">Permalink</a>  
+| 
+<a target="blank" class="menu_template1" href="https://www.reddit.com/submit?url=https://www.cgisecurity.com/2011/05/results-of-internet-ssl-usage-published-by-ssl-labs.html">Reddit</a>
+
+
+				
+					
+						<span class="separator">|</span>
+					
+					<a href="https://www.cgisecurity.com/2011/05/results-of-internet-ssl-usage-published-by-ssl-labs.html#comments">Comments (2)</a>
+				
+				
+					
+						<span class="separator">|</span>
+					
+					
+					
+				
+ <a href="https://www.cgisecurity.com/2011/05/results-of-internet-ssl-usage-published-by-ssl-labs.html">Read more of this story...</a>
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+		<div class="line"></div>
+	</div>
+
+	<div class="entry" id="entry-6a00e553aa1a28883301543289377f970c">
+		
+			<h2><a href="https://www.cgisecurity.com/2011/05/another-use-of-clickjacking-cookiejacking.html"> Another use of Clickjacking, Cookiejacking!</a></h2>
+		
+<div class="line"></div>
+		<div class="entry-content">
+			<div class="entry-body">
+				Rosario Valotta has published an interesting attack against IE that takes advantage of clickjacking. In a nutshell it combines origin flaws within IE with clickjacking to trick a user into copying/pasting their own cookies from any site! Demonstration below The technical details can be found at https://sites.google.com/site/tentacoloviola/cookiejacking and his slides at https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnx0ZW50YWNvbG92aW9sYXxneDoxMWJlZTI5ZjVhYjdiODQx
+			</div>
+			
+			
+		</div>
+		<div class="entry-footer">
+			<p>
+Posted by Robert A. on 05/25/2011  in <a href="https://www.cgisecurity.com/browsers/">Browsers</a>
+
+, <a href="https://www.cgisecurity.com/industrynews/">IndustryNews</a>
+
+, <a href="https://www.cgisecurity.com/research/">Research</a>
+
+, <a href="https://www.cgisecurity.com/vendors/">Vendors</a>
+
+, <a href="https://www.cgisecurity.com/vulns/">Vulns</a>
+
+ | <a href="https://www.cgisecurity.com/2011/05/another-use-of-clickjacking-cookiejacking.html">Permalink</a>  
+| 
+<a target="blank" class="menu_template1" href="https://www.reddit.com/submit?url=https://www.cgisecurity.com/2011/05/another-use-of-clickjacking-cookiejacking.html">Reddit</a>
+
+
+				
+					
+						<span class="separator">|</span>
+					
+					<a href="https://www.cgisecurity.com/2011/05/another-use-of-clickjacking-cookiejacking.html#comments">Comments (0)</a>
+				
+				
+					
+						<span class="separator">|</span>
+					
+					
+					
+				
+ <a href="https://www.cgisecurity.com/2011/05/another-use-of-clickjacking-cookiejacking.html">Read more of this story...</a>
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+		<div class="line"></div>
+	</div>
+
+	<div class="entry" id="entry-6a00e553aa1a2888330147e3a522f6970b">
+		
+			<h2><a href="https://www.cgisecurity.com/2011/03/nist-publishes-50kish-vulnerable-code-samples-in-javacc-is-officially-krad.html"> NIST publishes 50kish vulnerable code samples in Java/C/C++,  is officially krad</a></h2>
+		
+<div class="line"></div>
+		<div class="entry-content">
+			<div class="entry-body">
+				NIST has published a fantastic project (its been out since late December, but I only just became aware of it) where they&#39;ve created vulnerable code test cases for much of MITRE&#39;s CWE project in Java and c/c++. From the README &quot;This archive contains test cases intended for use by organizations and individuals...
+			</div>
+			
+			
+		</div>
+		<div class="entry-footer">
+			<p>
+Posted by Robert A. on 03/31/2011  in <a href="https://www.cgisecurity.com/announcements/">Announcements</a>
+
+, <a href="https://www.cgisecurity.com/commentary/">Commentary</a>
+
+, <a href="https://www.cgisecurity.com/demo/">Demo</a>
+
+, <a href="https://www.cgisecurity.com/development/">Development</a>
+
+, <a href="https://www.cgisecurity.com/industrynews/">IndustryNews</a>
+
+, <a href="https://www.cgisecurity.com/research/">Research</a>
+
+, <a href="https://www.cgisecurity.com/sdl/">SDL</a>
+
+, <a href="https://www.cgisecurity.com/vulns/">Vulns</a>
+
+ | <a href="https://www.cgisecurity.com/2011/03/nist-publishes-50kish-vulnerable-code-samples-in-javacc-is-officially-krad.html">Permalink</a>  
+| 
+<a target="blank" class="menu_template1" href="https://www.reddit.com/submit?url=https://www.cgisecurity.com/2011/03/nist-publishes-50kish-vulnerable-code-samples-in-javacc-is-officially-krad.html">Reddit</a>
+
+
+				
+					
+						<span class="separator">|</span>
+					
+					<a href="https://www.cgisecurity.com/2011/03/nist-publishes-50kish-vulnerable-code-samples-in-javacc-is-officially-krad.html#comments">Comments (1)</a>
+				
+				
+					
+						<span class="separator">|</span>
+					
+					
+					
+				
+ <a href="https://www.cgisecurity.com/2011/03/nist-publishes-50kish-vulnerable-code-samples-in-javacc-is-officially-krad.html">Read more of this story...</a>
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+		<div class="line"></div>
+	</div>
+
+
+</div>
+<!-- end short entrylist -->
+
+
+<!-- shortentrylist -->
+
+<!-- footer -->
+<div class="footer">
+Copyright 2000-2009 CGISecurity.com | <a href="https://www.cgisecurity.com/privacy.html">Privacy Policy| <a href="http://www.techlists.org/archives/programming/">java mailing list</a>| 
+<a href="http://www.resolvedip.com/">resolve ip</a>| <a href="http://www.techlists.org">Mailing Lists</a> | <a href="http://www.sony-deals.com/">Sony deals</a>
+</div> 
+<script src="https://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-277519-1";
+urchinTracker();
+</script>
+
+<script type="text/javascript">
+<!--
+var extra_happy = Math.floor(1000000000 * Math.random());
+document.write('<img src="https://www.typepad.com/t/stats?blog_id=1694854&amp;user_id=3084906&amp;page=' + escape(location.href) + '&amp;referrer=' + escape(document.referrer) + '&amp;i=' + extra_happy + '" width="1" height="1" alt="" style="position: absolute; top: 0; left: 0;" />');
+// -->
+</script>
+
+<!-- Begin disqus Tag -->
+
+<!-- End disqus Tag -->
+</body>
+</html>
+
+<!-- footer -->
+<!-- ph=1 -->
